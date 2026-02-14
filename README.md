@@ -40,6 +40,61 @@ Implemented CTE-based ranking and country-level segmentation logic.
 
 Applied business-driven thinking to real-world relational datasets.
 
+-----------
+
+🎵 Music Store SQL Project – Results Summary
+📊 Results Achieved
+
+Solved 11 business problems using 15+ SQL queries across 8 relational tables.
+
+Identified Top 3 invoice values, Top 10 Rock artists, and 1 highest-spending customer overall.
+
+Determined highest revenue city, most popular genre per country, and top customer per country (including tie cases).
+
+Calculated customer-to-artist spending using transactional revenue formula (Unit_Price × Quantity).
+
+🏆 Key Achievements
+
+Performed multi-level revenue analysis (City, Country, Customer, Artist).
+
+Successfully implemented CTE-based ranking logic for country-wise maximum calculations.
+
+Applied advanced segmentation for genre-based and geographic-based insights.
+
+Built scalable analytical queries suitable for business intelligence reporting.
+
+📈 Trends & Findings
+
+Revenue concentration observed among a limited set of high-value customers.
+
+Rock genre showed dominant listener and artist production patterns.
+
+Clear variation in genre popularity across different countries.
+
+Spending behavior differs significantly at country and city levels.
+
+🛠 Tools & Technologies Used
+
+MySQL (Relational Database)
+
+SQL querying across Customer, Invoice, Invoice_Line, Track, Album, Artist, Genre, Employee tables.
+
+Business-focused analytical query structuring.
+
+Revenue and behavioral data modeling using transactional datasets.
+
+⚙ SQL Methods Applied
+
+Core Clauses: SELECT, WHERE, ORDER BY, LIMIT
+
+Aggregations: SUM(), COUNT(), AVG(), MAX(), ROUND()
+
+Relational Logic: INNER JOIN, GROUP BY
+
+Advanced Techniques: Subqueries, CTEs (WITH clause), max comparison joins for tie handling
+
+Revenue Computation: Unit_Price × Quantity for accurate spending calculation
+
 🚀 Project Outcomes
 
 ✅ Enabled targeted marketing (genre & country-based).
