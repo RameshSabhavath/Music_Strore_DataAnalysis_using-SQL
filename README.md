@@ -1,4 +1,4 @@
-# 🎵 Music Store SQL Project – Results Summary
+## 🎵 Music Store SQL Project – Results Summary
 
 ### 🎯 Objectives
 
